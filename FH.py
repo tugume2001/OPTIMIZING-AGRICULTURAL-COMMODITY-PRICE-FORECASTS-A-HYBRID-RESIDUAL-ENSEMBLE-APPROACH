@@ -43,6 +43,9 @@ TELEGRAM_BOT_TOKEN =
 TELEGRAM_CHAT_ID = 
 VISUAL_CROSSING_API_KEY = # <--- INSERT YOUR KEY HERE
 
+#THESE ARE KEPT OUT TO ENSURE THE APIS ARE NOT MISUSED OR MANIPULATED 
+
+
 WFP_CSV_URL = "https://data.humdata.org/dataset/883929b1-521e-4834-97f5-0ccc2df75b89/resource/e082d683-cad5-4dcd-bf54-db76ae254d33/download/wfp_food_prices_uga.csv"
 
 try:
