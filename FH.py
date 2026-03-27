@@ -39,9 +39,9 @@ tf.get_logger().setLevel('ERROR')
 # ---------------------------
 # API CONFIGURATIONS
 # ---------------------------
-TELEGRAM_BOT_TOKEN = "7974415513:AAFLzp0h7y8F1efapwfV5xJPzOOjGQWDzQE" 
-TELEGRAM_CHAT_ID = "-1003648321965" 
-VISUAL_CROSSING_API_KEY = "U7M2JX5A9G2XS8RT7UTSRFAWF" # <--- INSERT YOUR KEY HERE
+TELEGRAM_BOT_TOKEN =  
+TELEGRAM_CHAT_ID = 
+VISUAL_CROSSING_API_KEY = # <--- INSERT YOUR KEY HERE
 
 WFP_CSV_URL = "https://data.humdata.org/dataset/883929b1-521e-4834-97f5-0ccc2df75b89/resource/e082d683-cad5-4dcd-bf54-db76ae254d33/download/wfp_food_prices_uga.csv"
 
